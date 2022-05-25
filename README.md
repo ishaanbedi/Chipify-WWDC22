@@ -1,4 +1,4 @@
-# Chipify - Accepted Swift Playground: WWDC22
+# Chipify - Swift Playground: WWDC22
 Repository for my WWDC 2022 Swift Student Challenge submission (accepted).
 
 <br/>
